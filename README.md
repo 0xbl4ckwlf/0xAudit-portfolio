@@ -1,0 +1,3 @@
+This is a series of smart contract audits from the Cyfrin Updrafts course
+The pdf versions may be unavailable for now, however, you can still read the reports
+More reports and repos coming soon....
